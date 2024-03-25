@@ -44,4 +44,18 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+    // public static function clientID()
+    // {
+    //     return 'zoom_client_of_user';
+    // }
+
+    // public static function clientSecret()
+    // {
+    //     return 'zoom_client_secret_of_user';
+    // }
+
+    // public static function accountID()
+    // {
+    //     return 'zoom_account_id_of_user';
+    // }
 }
